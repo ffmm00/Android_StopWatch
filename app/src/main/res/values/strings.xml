@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StopWatch</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="start">スタート</string>
+    <string name="stop">ストップ</string>
+    <string name="reset">リセット</string>
+    <string name="action_settings">Settings</string>
+</resources>
